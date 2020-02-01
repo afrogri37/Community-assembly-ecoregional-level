@@ -1,0 +1,19 @@
+NAME;name;lon;lat;index;NS
+Ibero-Macaronesian region;Iber;-3,282539544;40,0537666;1;S
+Pyrenees;Pyr;0,792616884;42,60661612;2;S
+Italy and Corsica;It;12,42478665;40,81305044;3;S
+Alps;Alp;10,72902244;46,42397408;4;S
+Dinaric western Balkan;DinWestBalk;17,36467618;44,02495241;5;S
+Hellenic western Balkan;Hel;23,16904907;38,08562394;6;S
+Eastern Balkan;EBalk;24,80939506;41,74815364;7;S
+Western highlands;WHL;5,158397321;47,1312153;8;S
+Central highlands;CHL;11,52880677;49,56018619;9;N
+The Carpathiens;Carp;23,16443037;47,33516522;10;S
+Hungarian lowlands;HungLL;19,4343669;47,00716386;11;S
+Western plains;WPl;0,907371819;47,23910411;13;S
+Central plains;CPl;13,39661677;55,00377637;14;N
+Baltic province;Balt;23,48255631;57,0775333;15;N
+Eastern plains;Epl;38,1730262;53,7792386;16;N
+England;Eng;-3,694488143;56,34414238;18;N
+Borealic uplands;BorUl;12,75561579;64,62945827;20;N
+Fenno-scandian shield;Fenn;26,36821451;64,3493897;22;N
