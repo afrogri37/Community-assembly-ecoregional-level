@@ -4,9 +4,9 @@ Calculation of taxonomic, phylogenetic and functional diversity indexes of regio
 
 In the folder **"external_files"** there are:
   * The raw data files in .csv format:
--biol_traits : biological traits data found in freshwaterecology.org
--ecoreg_centroids : the coordinates of the centroids of each ecoregion calculated in ArcGis
--ecoregions : the species occurences matrix (presence-absence) for the 18 ecoregions
+-biol_traits.csv : biological traits data found in freshwaterecology.org
+-ecoreg_centroids.csv : the coordinates of the centroids of each ecoregion calculated in ArcGis
+-Table_S1_ER_occurence_matrix.csv : the species occurences matrix (presence-absence) for the 18 ecoregions
 
   * Scripts with source functions used in the analyses 
 
